@@ -13,6 +13,7 @@
 不上班
 焦虑
 情绪
+困境
 年轻人
 自由职业
 知识变现
@@ -28,7 +29,9 @@ AIGC
 效率
 高效
 DeepSeek
-梁文锋
+Qwen
+Kimi
+智谱清言
 谷歌
 google
 gemini
@@ -38,12 +41,12 @@ openai
 sora
 claude
 Anthropic
-ai
+AI
 GAI
 人工智能
 AIGC
 创业
-创作者
+创作
 赚钱
 致富
 理财
@@ -56,3 +59,10 @@ AIGC
 财富自由
 财务自由
 自我提升
+大模型
+Agent
+智能体
+成年人
+普通人
+改变自己
+翻身
