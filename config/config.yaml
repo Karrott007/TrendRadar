@@ -9,7 +9,7 @@ crawler:
   default_proxy: "http://127.0.0.1:10086"
 
 # 🔸 daily（当日汇总模式）
-#   • 推送时机：按时推送(默认每2小时推送一次)
+#   • 推送时机：按时推送(默认每小时推送一次)
 #   • 显示内容：当日所有匹配新闻 + 新增新闻区域
 #   • 适用场景：日报总结、全面了解当日热点趋势
 #
@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "incremental" # 可选: "daily"|"incremental"|"current"
+  mode: "daily" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
